@@ -8,12 +8,4 @@ In Poisson Regression, the model estimates
 
 The Poisson distribution formula is:
 
-\[
-P(X = k) = \frac{\lambda^k \cdot e^{-\lambda}}{k!}
-\]
-
-where:
-- \( X \) is the random variable representing the count of events,
-- \( k \) is the observed number of events,
-- \( \lambda \) is the expected mean count for the interval,
-- \( e \) is Euler’s number (approximately 2.718).
+![Formula](image-1.png)
