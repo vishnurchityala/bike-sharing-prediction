@@ -6,4 +6,14 @@ In Poisson Regression, the model estimates
 𝜆
 λ based on predictors, allowing for predictions that vary with the input data. This method is especially effective for modeling situations where the response variable is a count, making it invaluable in a wide range of applications.
 
-P(X = k) = (λ^k * e^(-λ)) / k!
+The Poisson distribution formula is:
+
+\[
+P(X = k) = \frac{\lambda^k \cdot e^{-\lambda}}{k!}
+\]
+
+where:
+- \( X \) is the random variable representing the count of events,
+- \( k \) is the observed number of events,
+- \( \lambda \) is the expected mean count for the interval,
+- \( e \) is Euler’s number (approximately 2.718).
