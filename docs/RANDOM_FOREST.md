@@ -6,7 +6,7 @@ Random Forest works by building multiple decision trees, each created from a sub
 
 ![Illustration of Decision Tree](image.png)
 
-# Issues with Random Forest
+### Issues with Random Forest
 
 Random Forest for regression is a powerful technique but has several challenges:
 
