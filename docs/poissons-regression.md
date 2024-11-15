@@ -8,11 +8,11 @@ In Poisson Regression, the model estimates
 
 The Poisson distribution formula is:
 
-![Formula](image-1.png)
+![Formula](poisson-distribution.png)
 
 Poisson regression models the log of the expected count as a linear combination of the predictor variables. For example, if Y is the count we want to predict and X1, X2, X3,.....,Xn are predictor variables then:
 
-![alt text](image-2.png)
+![alt text](poisson-function.png)
 
 
 ### Issues with Poisson's Regression
