@@ -26,4 +26,3 @@ Used the pre-existing dataset from UCI: [Bike Sharing Dataset from UCI](https://
 - https://files.eric.ed.gov/fulltext/EJ1173275.pdf
 - https://medium.com/@theclickreader/random-forest-regression-explained-with-implementation-in-python-3dad88caf165
 - https://medium.com/@kunalchhablani14/predicting-stock-prices-using-machine-learning-338ab2fe4e5b
-- 
