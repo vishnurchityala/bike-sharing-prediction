@@ -18,8 +18,23 @@ Used the pre-existing dataset from UCI: [Bike Sharing Dataset from UCI](https://
 
 # Data Pre-Processing
 
-- Dropping columns casual, registered, workingday, weekday, yr, month.
+- Dropping columns casual, instant, dteday, registered, workingday, weekday, yr, month.
 - Converting season column to One-Hot Encoding.
+
+# Model Selection
+
+- Poisson's Regression
+- Random Forest Regressor
+
+# Model Training and Testing
+
+- Trained both Models on 80-20 split.
+- Random State 42 for both of the models.
+
+# Model Result Analysis
+
+- Printing all the stats parametes for both models.
+- Observing weightage of both the models.
 
 # Sources
 
