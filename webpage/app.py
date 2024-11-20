@@ -25,8 +25,8 @@ def index():
         'isWorkingday': False
     }
     if request.method == 'POST':
-        form_data['weathersit'] = int(request.form.get('weathersit', ''))
-        form_data['windspeed'] = int(request.form.get('windspeed', ''))
+        form_data['weathersit'] = float(request.form.get('weathersit', ''))
+        form_data['windspeed'] = float(request.form.get('windspeed', ''))
         form_data['temp'] = float(request.form.get('temp', ''))
         form_data['atemp'] = float(request.form.get('atemp', ''))
         form_data['humidity'] = float(request.form.get('humidity', ''))
